@@ -39,5 +39,4 @@ This project focuses on banking performance analysis using Oracle SQL and PL/SQL
 ## Reporting Logic
 The SQL procedures calculate financial indicators using reporting-date parameters and month-end aggregation logic.
 
-## Confidentiality
-This repository contains project documentation only. No confidential banking data, internal database structures, or proprietary source code is publicly shared.
+
